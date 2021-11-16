@@ -14,25 +14,23 @@
 
 - 珀斯小袋鼠和长发时期的我
 
-![1](assets/1.jpg)
-
-
+<img src="assets/1.jpg" alt="1" width="80%" />
 
 
 
 - 🏄‍♀️（不是我
 
-![2](assets/2.jpg)
+<img src="assets/2.jpg" alt="2" width="80%" />
 
 
 
 - 海鸥们
 
-![3](assets/3.jpg)
+<img src="assets/3.jpg" alt="3" width="80%" />
 
 
 
 - 汤圆
 
-![4](assets/4.jpg)
+<img src="assets/4.jpg" alt="4" width="80%" />
 
