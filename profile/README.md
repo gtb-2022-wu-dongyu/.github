@@ -3,7 +3,7 @@
 <br />
 <br />
 
-大家好我叫吴东宇，今年23岁，毕业于昆士兰大学master of Information Technology
+大家好我叫吴东宇，今年23岁，毕业于昆士兰大学 Master of Information Technology
 
 首先我很荣幸能加入thoughtworks并与各位同学一起学习培训，希望在接下来的两个月里能够学习更多的新知识，认识更多的新朋友🎉🎉
 
